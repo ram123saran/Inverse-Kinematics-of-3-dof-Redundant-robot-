@@ -1,5 +1,5 @@
 # Inverse-Kinematics-of-3-dof-Redundant-robot-
-In this project Analyzing the Inverse Kinematics of 3 link(3 dof) planner robot 
+In this project Analyzing the Inverse Kinematics of 3 link(3 dof) planner Redundant robot 
 
 Analyzing on 3 Manipulator 
  1. RRR Manipulator
