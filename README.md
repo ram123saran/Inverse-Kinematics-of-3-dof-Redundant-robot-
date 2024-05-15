@@ -6,7 +6,7 @@ Analyzing on 3 Manipulator
  2. PRR Manipulator
  3. RRP Manipulator
     
-Following methods are used for Inverse Kinematics 
+The following methods are used for Inverse Kinematics 
  1. Algebraic Method
  2. Geometric Method
  3. Newton Raphson Method
